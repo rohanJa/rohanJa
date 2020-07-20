@@ -1,4 +1,4 @@
-##Add me to organisation
+## Edit my Profile
 
 **rohanJa/rohanJa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
