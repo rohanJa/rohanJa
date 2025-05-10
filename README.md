@@ -1,7 +1,7 @@
 ## Hello There! <img src="https://raw.githubusercontent.com/rohanJa/rohanJa/master/gifs/Hi.gif" width="30px"></h2>
 <br />
 
-- [Work at WareIQ](https://github.com/rohanware)
+- Work at [WareIQ](https://github.com/rohanware)
 - 🔭 I’m currently working on Backend Technologies (Flask, Django)
 - 🌱 Have experience in both backend (Python and Java) and Frontend (React JS) technologies.
 - 👯 I’m looking to collaborate on Flask, django, ReactJS,  and Springboot
