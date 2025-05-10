@@ -1,9 +1,10 @@
 ## Hello There! <img src="https://raw.githubusercontent.com/rohanJa/rohanJa/master/gifs/Hi.gif" width="30px"></h2>
 <br />
 
-- 🔭 I’m currently working on MERN stack
-- 🌱 I’m currently learning Javascript, ReactJS, NodeJS
-- 👯 I’m looking to collaborate on ReactJS, django
+- ![Work at WareIQ](https://github.com/rohanware)
+- 🔭 I’m currently working on Backend Technologies (Flask, Django)
+- 🌱 Have experience in both backend (Python and Java) and Frontend (React JS) technologies.
+- 👯 I’m looking to collaborate on Flask, django, ReactJS,  and Springboot
 - 📫 How to reach me: 
 
     -   <a href="https://www.linkedin.com/in/rohan-jain-b9b27a178/">
@@ -17,3 +18,5 @@
         </a>
 
 ![Rohan Jain Github Stats](https://github-readme-stats.vercel.app/api?username=rohanJa&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
